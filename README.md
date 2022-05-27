@@ -1,5 +1,5 @@
 # Supervise-ML-kaggle-Forest-Cover-Type-Claasification-
-In this Notebook you will find an  advanced EDA plus interesting visualisations through the ML Pipeline by using optuna (hyperparameter tuning). 
+In this Notebook you will find an  advanced EDA, advanced visualisations (using 'Matplotlib' & 'Seaborn'), and Supervised ML model classidfiers for the Cover Forest Type (Kaggle Competition) through a ML Pipeline by using optuna as the hyperparameter tuning. 
 
 Following the different steps of: 
 
